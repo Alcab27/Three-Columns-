@@ -1,0 +1,19 @@
+:root{
+--Bright-orange: #e38826;
+--Dark-cyan: #006970;
+--Very-dark-cyan: #004241;
+/* paragraphs */
+--Transparent-white: #ffffffbf;
+/* background, headings, buttons */
+--Very-light-gray: #f2f2f2;
+}
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html{
+  font-size: 62.5%;
+  font-family: 'Big Shoulders Display', cursive;
+  font-family: 'Lexend Deca', sans-serif;
+}
