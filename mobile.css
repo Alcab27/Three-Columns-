@@ -1,0 +1,17 @@
+.principal-container{
+  flex-direction: column;
+  height: auto;
+  padding: 12px 0;
+}
+.columns{
+  height: 460px;
+  width: 80%;
+}
+.left-column{
+  background-color: var(--Bright-orange);
+  border-radius: 8px 8px 0 0;
+}
+.right-column{
+  background-color: var(--Very-dark-cyan);
+  border-radius: 0 0 8px 8px;
+} 
