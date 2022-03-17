@@ -62,11 +62,29 @@ html{
 .left-button{
   color: var(--Bright-orange);
 }
+.left-button:hover{
+  color: var(--Transparent-white);
+  background-color: var(--Bright-orange);
+  border: 2px solid var(--Transparent-white);
+  cursor: pointer;
+}
 .middle-button{
   color: var(--Dark-cyan);
 }
+.middle-button:hover{
+  color: var(--Transparent-white);
+  background-color: var(--Dark-cyan);
+  border: 2px solid var(--Transparent-white);
+  cursor: pointer;
+}
 .right-button{
   color: var(--Very-dark-cyan);
+}
+.right-button:hover{
+  color: var(--Transparent-white);
+  background-color: var(--Very-dark-cyan);
+  border: 2px solid var(--Transparent-white);
+  cursor: pointer;
 }
 .left-column{
   background-color: var(--Bright-orange);
